@@ -80,11 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zinan LIN<br />
-                      林子楠"
+  name             : "Zinan LIN"
   avatar           : "profile.png"
-  bio              : "Welcome to my personal website!<br /> 
-                      Zinan LIN is currently the MSc student of Intelligent Building Technology and Management program in HKUST"
+  bio              : "Zinan LIN is currently the MSc student of Intelligent Building Technology and Management program in HKUST"
   location         : "Hong Kong"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
