@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zinan LIN"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zinan LIN"
 description              : &description "HKUST"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zinan LIN"
+  name             : "Zinan LIN 林子楠"
   avatar           : "profile.png"
-  bio              : "Welcome to my personal website!\n\nZinan LIN is currently the MSc student of Intelligent Building Technology and Management program in HKUST"
+  bio              : "Welcome to my personal website!\n\n\n Zinan LIN is currently the MSc student of Intelligent Building Technology and Management program in HKUST"
   location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ZinanLin-Oscar"
   google_plus      :
   keybase          :
   instagram        :
