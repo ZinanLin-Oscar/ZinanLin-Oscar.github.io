@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  #- title: "Teaching"
-    #url: /teaching/    
+  - title: "Education"
+    file: _education.md  
     
   - title: "Portfolio"
     url: /portfolio/
