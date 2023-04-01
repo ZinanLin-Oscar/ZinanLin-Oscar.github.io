@@ -10,7 +10,7 @@ main:
     url: /talks/    
 
   - title: "Education"
-    file: education.md
+    url: /education/
     
   - title: "Portfolio"
     url: /portfolio/
