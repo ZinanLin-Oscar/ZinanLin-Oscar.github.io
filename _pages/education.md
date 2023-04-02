@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Construction Management, Shenzhen University, 2022
+* B.Eng in Construction Management, Shenzhen University, 2022
 * MSc in Intelligent Building Technology and Management, HKUST, 2023
 
 Work experience
