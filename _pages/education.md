@@ -30,13 +30,17 @@ Previous relevant research work
 
 
 Publications
+======
+*
 
   
 Talk
- 
+======
+*
   
 Teaching
-
+======
+*
   
 Selected awards & honors
 ======
