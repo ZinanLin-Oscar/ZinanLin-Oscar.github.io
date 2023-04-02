@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Construction Management, Shenzhen University, 2022
@@ -17,19 +18,19 @@ Education
 Work experience
 ======
 *  March-July 2022
-  * Internship
-  * Bureau of Public Works of Shenzhen Municipality
-  * Technology Departmrnt
+  ** Internship
+  ** Bureau of Public Works of Shenzhen Municipality
+  ** Technology Departmrnt
 
 *  January-March 2022
-  * Internship
-  * China Vanke CO.,LTD
-  * Government and Enterprise Service Center
+  ** Internship
+  ** China Vanke CO.,LTD
+  ** Government and Enterprise Service Center
   
  *  August-December 2021
-  * Internship
-  * China Construction Fifth Division South China
-  * Shenzhen Huafu Village Urban Renewal Project
+  ** Internship
+  ** China Construction Fifth Division South China
+  ** Shenzhen Huafu Village Urban Renewal Project
   
 Previous relevant research work
 ======
@@ -41,21 +42,15 @@ Previous relevant research work
 
 Publications
 ======
-  #<ul>{% for post in site.publications %}
-    #{% include archive-single-cv.html %}
-  #{% endfor %}</ul>
+ 
   
 Talks
 ======
-  #<ul>{% for post in site.talks %}
-    #{% include archive-single-talk-cv.html %}
-  #{% endfor %}</ul>
+ 
   
 Teaching
 ======
-  #<ul>{% for post in site.teaching %}
-    #{% include archive-single-cv.html %}
-  #{% endfor %}</ul>
+
   
 Selected awards & honors
 ======
