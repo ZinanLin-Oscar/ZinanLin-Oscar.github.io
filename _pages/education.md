@@ -17,20 +17,9 @@ Education
 
 Work experience
 ======
-*  March-July 2022
-  ** Internship
-  ** Bureau of Public Works of Shenzhen Municipality
-  ** Technology Departmrnt
-
-*  January-March 2022
-  ** Internship
-  ** China Vanke CO.,LTD
-  ** Government and Enterprise Service Center
-  
- *  August-December 2021
-  ** Internship
-  ** China Construction Fifth Division South China
-  ** Shenzhen Huafu Village Urban Renewal Project
+*  March-July 2022, Technology Departmrnt, Bureau of Public Works of Shenzhen Municipality
+*  January-March 2022, Government and Enterprise Service Center, China Vanke CO.,LTD
+*  August-December 2021, Shenzhen Huafu Village Urban Renewal Project, China Construction Fifth Division South China
   
 Previous relevant research work
 ======
@@ -41,15 +30,12 @@ Previous relevant research work
 
 
 Publications
-======
- 
+
   
-Talks
-======
+Talk
  
   
 Teaching
-======
 
   
 Selected awards & honors
